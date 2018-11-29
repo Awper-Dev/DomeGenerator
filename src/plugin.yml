@@ -1,0 +1,9 @@
+name: CoolaxDomeGen
+version: 1.0
+main: me.Marni.CoolaxDomeGen.CoolaxDomeGen
+description: This is a test
+depend: [Factions]
+commands:
+  test:
+    usage: /<command>
+    description: test
